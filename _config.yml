@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "http://github.com/avishek-r-kumar/2016-02-18-biodesign/"
-workshop_site   : "http://avishek-r-kumar.github.io/2015-02-18-biodesign/"
+workshop_site   : "http://avishek-r-kumar.github.io/2016-02-18-biodesign/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
